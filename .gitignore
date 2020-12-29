@@ -1,0 +1,11 @@
+.idea
+
+*.sqlite3
+
+gestaorh
+
+.git
+
+*gestao_rh/__pycache__/
+
+*apps/__pycache__/
